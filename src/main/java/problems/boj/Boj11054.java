@@ -1,4 +1,4 @@
 package problems.boj;
 
-public class Boj1000 {
+public class Boj11054 {
 }
